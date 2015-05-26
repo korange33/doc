@@ -12,6 +12,7 @@ Calibration
   * [calibrage issu du site Think3DPrint3D] (https://docs.google.com/document/d/1wYwPmP2ZbZWeXFcjtXCqGfVvm05ZUVkkGT7-EKEv8fc/pub)
   * [calibrage détaillé ] (https://miscsolutions.wordpress.com/2015/01/22/upgrading-the-mini-kossel-to-duet-electronics-part-3-calibration)
   * [site en français] (http://www.blognote.info/imprimante-3d-mon-choix/)
+  * [site détaillé avec photos] (http://letsmakerobots.com/content/kossel-mini-calibration)
 
 Configuration smart controller
 ==============================
