@@ -18,3 +18,8 @@ Configuration smart controller
 ==============================
   * [smart controller] (http://www.reprap.org/wiki/RepRapDiscount_Smart_Controller)
   * [plan détaillé] (http://smoothieware.org/panel)
+
+
+Divers
+======
+    * [G-code] http://reprap.org/wiki/G-code
