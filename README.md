@@ -23,3 +23,9 @@ Configuration smart controller
 Divers
 ======
     * [G-code] http://reprap.org/wiki/G-code
+
+
+Boutique
+========
+
+  * [imp3d-france] (http://www.imp3d-france.com/categories/4/extrudeur-et-tete-hothead)
