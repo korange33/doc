@@ -4,7 +4,8 @@ Kossel mini avec RAMPS 1.4 et un smart controller
  
   * [doc du site marchand] (http://builda3dprinter.eu/build-manuals/kossel_mini_build_manual/start-building/lower-frame-v2-2)
   * [think3dprint3d] (http://www.think3dprint3d.com/Kossel-Mini-3dPrinter-Kit)
- 
+  * [Doc détaillée avec plein de photos] (http://www.instructables.com/id/Detailled-Assembly-Instructions-of-the-Rostock-Min)
+  * 
 Calibration
 ===========
 
