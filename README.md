@@ -30,3 +30,15 @@ Boutique
 ========
 
   * [imp3d-france] (http://www.imp3d-france.com/categories/4/extrudeur-et-tete-hothead)
+
+
+Compilation
+===========
+ touch Marlin/Marlin.pde
+ rm src
+ make build-firmware
+ ino upload -p /dev/ttyACM3 -m mega2560
+ 
+ 
+ 
+
